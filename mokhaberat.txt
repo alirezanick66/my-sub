@@ -1,5 +1,7 @@
+vless://76bfc324-e228-47e0-8871-f974fac80390@news.zoom.us:2096?encryption=none&security=tls&sni=ip.onhit.xyz&fp=chrome&allowInsecure=1&type=ws&host=ip.onhit.xyz&path=%2F#%40Daily_Configs%60
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#Channel%20ID%3A%20%40v2ray_configne
+
 
 
 
