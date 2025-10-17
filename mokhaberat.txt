@@ -3,3 +3,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#Samourai
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#iraq%60%60%60
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?encryption=none&security=none&type=grpc#%F0%9F%9A%95%F0%9F%9A%92%F0%9F%9A%975
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOejB2cW1yNnVacG5IVE1pV2psUHJa@89.110.68.125:39532#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40%F0%9D%99%8E%F0%9D%99%86%F0%9D%99%94%F0%9D%99%8B%F0%9D%99%8D%F0%9D%99%8A_%F0%9D%99%91%F0%9D%99%8B%F0%9D%99%89
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?encryption=none&security=none&type=grpc#%40%F0%9D%97%A6%F0%9D%97%9E%F0%9D%97%AC%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%A2_%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
