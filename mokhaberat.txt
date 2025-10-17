@@ -1,8 +1,5 @@
 vless://%40Geek_Spot@176.97.210.2:37589?encryption=none&security=none&type=tcp&headerType=none#%40V2_MOD_SHOP%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%20%7C
-hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%9E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Telegram%2B%3A%2B%40V2rayEnglish%60
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#Samourai
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBtZWxpX3Byb3h5eSIsDQogICJhZGQiOiAiOTEuMTM0LjguOTMiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogInBlbGFuZy5vcmciLA0KICAicGF0aCI6ICJsaW5rdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInBlbGFuZy5vcmciLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#iraq%60%60%60
-vless://c77af948-3e74-435f-b5bf-2469cf60cfff@212.134.84.111:443?encryption=none&security=reality&sni=pcmag.com&fp=firefox&pbk=b-eNFWwd6a1LTKon3gGfRugiGC2CpIRdjn8Y557QWSY&sid=fd&spx=%2FTELEGRAM--CHANEL--JKVPN--%40JKVPN&allowInsecure=1&type=tcp&headerType=none#%F0%9F%8C%BD%F0%9F%A5%A6%F0%9F%8C%B04
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?encryption=none&security=none&type=grpc#%F0%9F%9A%95%F0%9F%9A%92%F0%9F%9A%975
